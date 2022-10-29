@@ -1,2 +1,2 @@
-# zeta
+# Zeta
 A basic programming language.
